@@ -138,3 +138,6 @@ cython_debug/
 # Output directories
 output/
 plots/
+
+# Temporary Excel files
+~$*.xlsx
